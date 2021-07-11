@@ -1,1 +1,1 @@
-web: gunicorn bigbs.wsgi --log-file -
+web: gunicorn bay.wsgi --log-file -
