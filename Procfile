@@ -1,1 +1,1 @@
-web: gunicorn baywatch.wsgi --log-file -
+web: gunicorn bigbs.wsgi --log-file -
